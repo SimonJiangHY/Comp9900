@@ -1,0 +1,29 @@
+Week 1
+Form a team and hold a meeting to select the project. The final project selected is "Meal Recommendation System".
+
+Week 2
+I and my back-end teammate Hanyue Jiang choose Flask as the back-end framework. Start to plan the implementation mode of each function.
+
+Week 3
+Write part of the proposal and implement some recipe functions.
+
+Week 4
+Fully realize the recipe function with my back-end teammate, which mainly includes: creating recipes, modifying recipes, uploading images and obtaining the list of user recipes.
+
+Week 5
+Display demo A. Optimize some problems currently encountered.
+
+Week 6
+Flexible week.
+
+Week 7
+Complete the user's suscribing function for other users and the user's likes and favorites function for recipes.
+
+Week 8
+Display demo B. Optimize some problems currently encountered. Complete the ranking list function.
+
+Week 9
+Optimize the ranking function and fix bugs. Prepare for the final presentation.
+
+Week 10
+Display final Demo and complete final report.

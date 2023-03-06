@@ -1,0 +1,29 @@
+Week 1
+Our team select the theme of project. The final project selected is "Meal Recommendation System".
+
+Week 2
+Disscuss userstories and sprints, I design part of the basic style of interface.
+
+Week 3
+Front end group ( Shiyu Nie, Zening Wang and me) decide to use REACT as the frame of front end and learn it.
+
+Week 4
+Design the style of Create recipes page and some components in the navigation.
+
+Week 5
+Display demo A. Adjust existing page styles. Learn about the content of front and back interaction.
+
+Week 6
+Flexible week.
+
+Week 7
+Design the style of Personal information page, post page, subscription and related pages, favourite page and some front and back interaction.
+
+Week 8
+Display demo B. Design the style of Search page and its front and back interaction.
+
+Week 9
+Fix bugs and adjust some interfaces.
+
+Week 10
+Display final Demo and complete final report.

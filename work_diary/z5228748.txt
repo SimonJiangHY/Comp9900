@@ -1,0 +1,38 @@
+Week 1 
+
+We created our team. I created Jira account and invited members and memtor. Our team held
+a meeting at weekend to discuss the project selection and we finally choose meal recommendation
+system.
+
+Week 2 
+
+We held a meeting to disscuss userstories and sprints. Me and Xueqin Ren disscussed about the
+backend technology  we may use and finally decide to use Flask as our backend framework.
+And we also start to design schema for database.
+
+Week 3
+
+All userstories and functionalites reaches an agreement after lab. I wrote part of the proposal and 
+I start coding on our backend system. I finished user login/validation/profile part.
+
+Week 4
+
+All backend APIs for Demo A done.  Share frontend teamates how to use related API through
+swagger. Fix some bug depend on feedbacks from frontend. Prepare for demo A.
+
+Week 5
+Demo A done. Held a retrospective meeting soon after demo A. Disscussed about sprint 2.
+Determined what API need to be done in sprint 2. Start coding.
+
+Week6 
+Fexible week. But finished sprint 2 backend coding.
+
+Week 7
+Show swagger update to frontend. Fix bug denpends on feedbacks from frontend. Prepare for
+Demo B
+
+Week 8
+Demo B done. Held a retrospective meeting soon after Demo B. Start coding the rest API.
+
+Week 9
+All API done. Start learning unittest. Prepare for the final demo.

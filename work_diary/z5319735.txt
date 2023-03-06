@@ -1,0 +1,29 @@
+Week 1
+The group meets to choose a project topic. After analyzing different projects, finally select "Meal Recommendation System".
+
+Week 2
+The team meets to decide on usersstories and sprints. I wrote part of the userstories and designed part of the user flow diagram
+
+Week 3
+The front-end team (Han Yan, Zening Wang and me) met and decided to use REACT as the front-end framework, and use Antd components to design the front-end page. I built the framework of REACT.
+
+Week 4
+Designed own recipes page, personal information display page and personal information modification page.
+
+Week 5
+Display demo A. Optimize some functions of own recipes page
+
+Week 6
+Flexible week.
+
+Week 7
+Designed homepage, recipe homepage. Completed the function of likes and comments on the recipe home page
+
+Week 8
+Display demo B. Optimize some functions of homepage and recipe homepage. Designed the rank page and completed the function of recommending related recipes on the recipe homepage
+
+Week 9
+Beautify the UI design of the recipe homepage and rank page.
+
+Week 10
+Show final presentation and complete final report.

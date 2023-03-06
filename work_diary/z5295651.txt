@@ -1,0 +1,18 @@
+week 1
+Discussed matters related to the project, and decided the technology and direction for development.
+week 2
+Discussed the objectives to be completed in different development stages, and began to prepare relevant contents of sprint 1.
+week 3
+Use react to develop front-end pages and work with other team members in charge of the front-end.
+week 4
+Carry out the development work of connecting the completed front-end page with the back-end.Prepare Demo A.
+week 5
+Complete demo A and discuss the contents related to the development of sprint 2.
+week 6
+Develop front-end pages related to sprint 2.
+week 7
+Connect the front and rear data and prepare demo B.
+week 8
+Complete demo B and discuss the relevant issues in sprint 3.
+week 9
+Complete the development of all front-end pages, perform UI related optimization, and check for bugs.
